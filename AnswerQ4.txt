@@ -1,0 +1,5 @@
+		Does it matter to use relative size when styling so as to be responsive?
+	Yes. The use of Relative units specify a size relative to other length properties. 
+Therefore when we use the relative size of the height for example, the width as well is
+rendered down along with it. Therfore Relative size units are excellent at scaling to fit 
+between different rendering mediums. 

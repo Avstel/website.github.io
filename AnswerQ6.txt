@@ -1,0 +1,6 @@
+				What are the changes made in CSS3?
+As with any improvement; CSS3 modules add new capabilities and extend features defined
+in CSS2. These modules enable the designing to be done in a shorter period of time with 
+more ease while updating individual features and specifications. It also supports far 
+more browsers due to the inclusion of New combinators, CSS selector, Style properties 
+and others.
